@@ -109,12 +109,7 @@
     </div>
 
     <div id="question2" class="hidden">
-      <p>How much do you like me?</p>
-      <button class="yes-btn" onclick="finalQuestion()">This much 😏</button>
-    </div>
-
-    <div id="question3" class="hidden">
-      <h1>Brian, will you be my Valentine for 2026? 💙</h1>
+      <h1>Brian, will you be my Valentine? 💙</h1>
       <button class="yes-btn" onclick="celebrate()">YES ❤️</button>
       <button class="no-btn">No</button>
     </div>
@@ -122,11 +117,11 @@
     <div id="celebration" class="hidden">
       <h1>YAY!!! 🥰</h1>
       <p class="celebrate">
-        I’m so lucky to have you, Brian.<br />
-        Now come get your Valentine’s surprise 😏
+        I’m so lucky to have you, pookie.<br />
+        Now come get your Valentine’s surprise...xoxo😏
       </p>
-      <div class="emoji">💙🎮🍫🥰❤️🔥</div>
-      <div class="footer">Valentine’s Day 2026</div>
+      <div class="emoji">💙🍫🥰❤️🔥</div>
+      <div class="footer">Valentine’s Day with Brian</div>
     </div>
   </div>
 
